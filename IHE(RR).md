@@ -1,6 +1,3 @@
-![IHE Logo](https://avatars1.githubusercontent.com/u/36404468?s=100)
-
-
 #IHE(RR): Italian Hackers Embassy - Resources Repository
 
 
