@@ -42,7 +42,7 @@
 * [https://github.com/ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - *A collection of android security related resources*
 * [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - *A bash-tool to store your private data inside a git repository* ([Site](http://git-secret.io))
 
-#### Network
+### Network
 * [k4m4/kickthemout](https://github.com/k4m4/kickthemout) - *Kick devices off your network by performing an ARP Spoof attack*
 
 ### Exploit
@@ -61,7 +61,7 @@
 * [Parrot](https://www.parrotsec.org) - *arrot is a GNU/Linux distribution based on Debian Testing and designed with Security, Development and Privacy in mind*
 * [Subgraph OS](https://subgraph.com) - *Subgraph OS is a desktop computing and communications platform that is designed to be resistant to network-borne exploit and malware attacks*
 
-####Mobile OS
+###Mobile OS
 * [Copperhead OS](https://copperhead.co) - *A security and privacy focused mobile operating system compatible with Android apps*
 * [Kali Linux NetHunter](https://www.kali.org/kali-linux-nethunter/) - *The Kali Linux NetHunter project is the first Open Source Android penetration testing platform for Nexus devices*
 
