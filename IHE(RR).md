@@ -22,6 +22,7 @@
 * [BlackHat](http://www.blackhat.com)
 * [DEF CON](https://www.defcon.org)
 * [PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - *A collected list of awesome security talks*
+* [1337list/ephemera-miscellany](https://github.com/1337list/ephemera-miscellany/blob/master/hackertalkytalk.md) - *List of Helpful Information Security Multimedia*
 
 ### Others
 * [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - *A curated list of movies every hacker & cyberpunk must watch*
